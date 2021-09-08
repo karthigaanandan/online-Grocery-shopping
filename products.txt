@@ -1,0 +1,6 @@
+1           |FRUITS           |ORANGE           |20
+100           |CADBURY           |CHOCOLATE           |50
+12           |VEGETABLE           |CARROT           |34
+123           |DARK FANTASY           |BISCUITS           |30
+20           |NUTELLA           |COCOA SPREAD           |350
+5           |FRUITS           |GRAPES           |60

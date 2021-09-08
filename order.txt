@@ -1,0 +1,8 @@
+2           |100           |CADBURY           |50           |CHOCOLATE           |4           |200           |KARTHIGA
+2           |19           |BISCUIT           |10           |OREO           |4           |40           |AMMU
+2           |20           |NUTELLA           |350           |COCOA SPREAD           |3           |1050           |HEMU
+2           |20           |NUTELLA           |350           |COCOA SPREAD           |3           |1050           |HEMU
+3           |20           |NUTELLA           |350           |COCOA SPREAD           |3           |1050           |NAMITHA
+3           |2           |VEGETABLE           |40           |CARROT           |8           |320           |PAVITHRA
+4           |100           |CADBURY           |50           |CHOCOLATE           |3           |150           |PAVI
+7           |5           |FRUITS           |60           |GRAPES           |5           |350           |CHINU
